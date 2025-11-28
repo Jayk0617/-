@@ -7,7 +7,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '夏朝',
     period: '约公元前 2070 年 – 约公元前 1600 年',
     description: '传统史学中记载的第一个世袭制朝代，标志着从新石器时代向青铜时代的过渡。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bronze_Jue_%28Wine_Vessel%29%2C_Xia_Dynasty.jpg/800px-Bronze_Jue_%28Wine_Vessel%29%2C_Xia_Dynasty.jpg', 
+    imageUrl: 'https://img1.baidu.com/it/u=1178648872,1455318797&fm=253&fmt=auto&app=120&f=JPEG?w=1275&h=800', 
   },
   {
     id: 'shang',
@@ -15,7 +15,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '商朝',
     period: '约公元前 1600 年 – 约公元前 1046 年',
     description: '以精湛的青铜铸造、甲骨文以及中国最早的确切文字记录而闻名。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Houmuwu_Ding_db.jpg/800px-Houmuwu_Ding_db.jpg', 
+    imageUrl: 'https://img1.baidu.com/it/u=3939807039,982986310&fm=253&app=138&f=JPEG?w=515&h=500', 
   },
   {
     id: 'zhou',
@@ -23,7 +23,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '周朝',
     period: '约公元前 1046 年 – 公元前 256 年',
     description: '历史上延续时间最长的朝代，以“天命观”以及儒家、道家思想的兴起而著称。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_Zhou_Bronze_Gui.jpg/800px-Western_Zhou_Bronze_Gui.jpg', 
+    imageUrl: 'https://img2.baidu.com/it/u=4103855360,39784690&fm=253&fmt=auto&app=120&f=JPEG?w=812&h=500', 
   },
   {
     id: 'qin',
@@ -31,7 +31,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '秦朝',
     period: '公元前 221 年 – 公元前 206 年',
     description: '第一个统一的封建王朝，统一度量衡、文字，并修筑了长城。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Terracotta_Army_soldiers.jpg/800px-Terracotta_Army_soldiers.jpg', 
+    imageUrl: 'https://img2.baidu.com/it/u=1360717712,2608028279&fm=253&fmt=auto&app=138&f=JPEG?w=827&h=500', 
   },
   {
     id: 'han',
@@ -39,7 +39,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '汉朝',
     period: '公元前 202 年 – 公元 220 年',
     description: '中国历史上的黄金时代，见证了丝绸之路的开辟和造纸术的发明。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gilt_Bronze_Human-Shaped_Lamp.JPG/800px-Gilt_Bronze_Human-Shaped_Lamp.JPG', 
+    imageUrl: 'https://img2.baidu.com/it/u=531496642,200694696&fm=253&fmt=auto&app=138&f=JPEG?w=736&h=500', 
   },
   {
     id: 'three_kingdoms',
@@ -47,7 +47,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '三国',
     period: '公元 220 年 – 280 年',
     description: '魏、蜀、吴三国鼎立的局面，因《三国演义》等文学作品和戏曲而广为流传。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Guan_Yu_captured_Yu_Jin.jpg/800px-Guan_Yu_captured_Yu_Jin.jpg', 
+    imageUrl: 'https://pic.rmb.bdstatic.com/bjh/240221/events/95cf1fe4753c2072730901fa01693855661.jpeg', 
   },
   {
     id: 'tang',
@@ -55,7 +55,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '唐朝',
     period: '公元 618 年 – 907 年',
     description: '中华文明的巅峰，以开放包容的文化、辉煌的诗歌（李白、杜甫）和疆域扩张著称。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Spring_Outing_of_the_Tang_Court_by_Zhang_Xuan.jpg/1280px-Spring_Outing_of_the_Tang_Court_by_Zhang_Xuan.jpg', 
+    imageUrl: 'https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%27LV8xNzMzNzg1ODc4LjIwMDExNDdfMTczMzc4NTg3OS4yOTI3Mjc3%27/1.png', 
   },
   {
     id: 'song',
@@ -63,7 +63,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '宋朝',
     period: '公元 960 年 – 1279 年',
     description: '经济与文化高度发达的时代，最早使用了纸币和火药，宋词艺术达到顶峰。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Along_the_River_During_the_Qingming_Festival_%28Qingming_Shanghe_Tu%29_by_Zhang_Zeduan_%281085%E2%80%931145%29_crop.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Qingming_Shanghe_Tu%29_by_Zhang_Zeduan_%281085%E2%80%931145%29_crop.jpg', 
+    imageUrl: 'https://q2.itc.cn/q_70/images03/20240208/e785fed593904bc383afe8148365ec2c.jpeg', 
   },
   {
     id: 'yuan',
@@ -71,7 +71,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '元朝',
     period: '公元 1271 年 – 1368 年',
     description: '由蒙古族忽必烈建立，是中国历史上第一个由少数民族统一全国的朝代。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Yuan_Dynasty_blue_and_white_porcelain_jar_with_fish_and_aquatic_plants.jpg/800px-Yuan_Dynasty_blue_and_white_porcelain_jar_with_fish_and_aquatic_plants.jpg', 
+    imageUrl: 'https://img1.baidu.com/it/u=1641827614,1796473046&fm=253&app=138&f=JPEG?w=607&h=385', 
   },
   {
     id: 'ming',
@@ -79,7 +79,7 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '明朝',
     period: '公元 1368 年 – 1644 年',
     description: '以修建紫禁城、郑和下西洋以及精美的瓷器闻名于世，是汉族建立的最后一个封建王朝。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Forbidden_City_viewed_from_Jingshan_Hill.jpg/1280px-The_Forbidden_City_viewed_from_Jingshan_Hill.jpg', 
+    imageUrl: 'https://img0.baidu.com/it/u=3419697053,2903512791&fm=253&fmt=auto&app=138&f=JPEG?w=1352&h=800', 
   },
   {
     id: 'qing',
@@ -87,6 +87,6 @@ export const DYNASTIES: Dynasty[] = [
     chineseName: '清朝',
     period: '公元 1644 年 – 1912 年',
     description: '中国最后一个封建王朝，由满族统治，奠定了现代中国的版图基础。',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Cixi_Imperial_Dowager_Empress_of_China_by_Hubert_Vos.jpg/800px-The_Cixi_Imperial_Dowager_Empress_of_China_by_Hubert_Vos.jpg', 
+    imageUrl: 'https://img1.baidu.com/it/u=2201904188,3595524714&fm=253&fmt=auto&app=138&f=JPEG?w=685&h=500', 
   }
 ];
